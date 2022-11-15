@@ -11,7 +11,7 @@
 
 - create forlder on disk;
 - open cmd and goto to new forlder;
-- clone repository **git clone https://github.com/softservedata/lv721devops.git**
+- clone repository **git clone https://github.com/rgrgiorchuk/rsg.git**
 - change directory to **lv721devops**;
 - check branch **git branch**
 - create new branch **git branch <NAME>**
