@@ -14,7 +14,7 @@
 - clone repository **git clone https://github.com/rgrgiorchuk/rsg.git**
 - change directory to **rsg**;
 - check branch **git branch**
-- create new branch **git branch #####<NAME>**
-- switch to new branch **git checkout ####<NAME>**
+- create new branch **git branch <NAME>**
+- switch to new branch **git checkout <NAME>**
 - open project in IDE;
 - write new code;
